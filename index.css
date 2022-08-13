@@ -1,0 +1,14 @@
+.content {
+    width: 80vv;
+}
+.search {
+    width: 100%;
+}
+.search input, .search button {
+    display: block;
+}
+.ad{
+    height: 100px;
+    background-color: green;
+    width: 100%;
+}
